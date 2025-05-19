@@ -102,26 +102,26 @@ display the capital of the countries on console whenever the countries are selec
 ## 5d.CMYTabbedPane
 Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5d1.png)
-# 6a.
+## 6a.
 Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
-# 6b. 
+## 6b. 
 Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
-# 6c.
+## 6c.
 Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.
-# 7a.
+## 7a.Session Management
 Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
-Check the expiry of the session after one minute.
-# 7b. 
+Check the expiry of the session after one minute.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7a.png)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7b.png)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7c.png)
+## 7b. Cookie Management
 Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list
 
-# 8a. 
+## 8a. 
 Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
 JSP to get the fields and display the results respectively
