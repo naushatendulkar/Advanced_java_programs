@@ -13,7 +13,7 @@ results respectively-*/
         stmt = conn.createStatement();
 
         out.println("<h2>Coffee Products Starting with 'D':</h2>");
-        ResultSet rs = stmt.executeQuery("SELECT * FROM coffee WHERE coffee_name LIKE 'D%'");
+        ResultSet rs = stmt.executeQuery("SELECT * FROM coffee WHERE coffee_name LIKE 'r%'");
 
         boolean found = false;
         while (rs.next()) {
