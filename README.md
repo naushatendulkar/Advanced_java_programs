@@ -39,3 +39,46 @@ l_listobj.get(p) )
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 [output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program1_ListInterface/p10.png)
+# 2a. String Operation
+2 a. Develop a java program for performing various string operations with different string
+handling functions directed as follows
+String Creation and Basic Operations, Length and Character Access, String Comparison, String
+Searching, Substring Operations , String Modification, Whitespace Handling, String
+Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
+contains( ) and startsWith() and endsWith()
+# 2b.
+2.b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
+appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
+your answer which one is better.
+# 3a. String operation progams
+3a. Develop a java program for performing various string operations with different string
+handling functions directed as follows:
+String Creation and Basic Operations, Length and Character Access, String Comparison, String
+Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
+String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
+startsWith() and endsWith()
+# 3b.String Exercise progams
+1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
+defined function isNullOrEmpty().
+2. Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()
+3. Write a Java Program for Reversing the characters in a string using user defined function
+reverseString().
+4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
+and punctuation) using user defined function isPalindrome():
+5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
+function removeWhitespace()
+# 3c.String Exercise progams
+6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+capitalizeWords()
+7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+defined function truncate()
+8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()
+9. Write a Java Program for Creating a random string of a specified length using user defined
+function generateRandomString()
+10. Write a Java Program for Counting the number of words in a string using user defined function
+countWords()
+# 4a.Swing
+ Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
+Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
