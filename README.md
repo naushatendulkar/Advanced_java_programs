@@ -101,13 +101,13 @@ display the capital of the countries on console whenever the countries are selec
 ## 5d.CMYTabbedPane
 Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5d1.png)
-## 6a.
+## 6a.FactorialServlet
 Build a servlet program to find the factorial of a number using HTML with step by step[output](.https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/6.png)[output](.https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/6a.png)
-## 6b. 
+## 6b.CookieServlet
 Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.[output](.https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/6b.png)
-## 6c.
+## 6c.Prime Servlet
 Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.[output](.https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/6c.png)[output](.https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/6c2.png)
 ## 7a.Session Management
