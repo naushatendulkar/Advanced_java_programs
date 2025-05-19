@@ -128,8 +128,30 @@ JSP to get the fields and display the results respectively.[output](https://gith
 Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b1.jpg)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b2.jpg)
-## 8c Employee Report
-. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
+## 8c. Employee insert
+ Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8c.jpg)
+## 8d. Employee update
+8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
+the table Emp of the database Employee using HTML and JSP to get the fields and display the
+results respectively.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d.jpg)
+[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d2.jpg)
+## 9a.
+9a. Read all the existing records from the table coffee which is from the database test and delete
+an existing coffee product from the table with its id and display the rest of the records using
+HTML and JSP to get the field and display the results respectively
+## 9b.
+9b. Read all the existing records from the table coffee which is from the database test and query
+coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
+results respectively
+## 9c.
+9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
+into the table Emp of the database Employee by getting the fields through keyboard and Generate
+the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
+to get the field and display the results respectively
+## 9d.
+9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
+Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
+follows using HTML and JSP to get the field and display the results respectively
