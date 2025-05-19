@@ -141,7 +141,7 @@ results respectively.[output](https://github.com/naushatendulkar/Advanced_java_p
 ## 9a.
 9a. Read all the existing records from the table coffee which is from the database test and delete
 an existing coffee product from the table with its id and display the rest of the records using
-HTML and JSP to get the field and display the results respectively
+HTML and JSP to get the field and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/tree/main/program9_empcoffee)
 ## 9b.
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
