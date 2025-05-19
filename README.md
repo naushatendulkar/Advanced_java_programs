@@ -118,16 +118,16 @@ Check the expiry of the session after one minute.[output](https://github.com/nau
 Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list
-[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb1.jpg)
-[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb2.jpg)
+[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb1.jpg)
+[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb2.jpg)
 ## 8a.  Insert coffee
 Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
-JSP to get the fields and display the results respectively.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a1.jpg)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a2.jpg)
+JSP to get the fields and display the results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a1.jpg)[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a2.jpg)
 ## 8b. Update coffee
 Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
-( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b1.jpg)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b2.jpg)
+( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b1.jpg)[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b2.jpg)
 ## 8c. Employee insert
  Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
@@ -136,22 +136,22 @@ HTML and JSP to get the fields and display the results respectively[output](http
 ## 8d. Employee update
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
-results respectively.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d.jpg)
-[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d2.jpg)
-## 9a.
+results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d.jpg) 
+[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d2.jpg)
+## 9a.Delete employee
 9a. Read all the existing records from the table coffee which is from the database test and delete
 an existing coffee product from the table with its id and display the rest of the records using
 HTML and JSP to get the field and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/tree/main/program9_empcoffee)
-## 9b.
+## 9b.Delete Employee Record
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
 results respectively
-## 9c.
+## 9c.Insert employee details
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively
-## 9d.
+## 9d.Delete Employee Record
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively
