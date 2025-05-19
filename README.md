@@ -55,53 +55,53 @@ handling functions directed as follows:
 String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
-startsWith() and endsWith().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3a1.png)([output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3a2.png)
+startsWith() and endsWith().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/2a.png)
 ## 3b.String Exercise progams
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
-defined function isNullOrEmpty().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3b.png)
+defined function isNullOrEmpty().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3a.png)
 2. Write a Java Program for Counting how many times a substring appears in a main string
-using user defined function countOccurrences().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3c.png)
+using user defined function countOccurrences().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3b.png)
 3. Write a Java Program for Reversing the characters in a string using user defined function
-reverseString().[output](
+reverseString().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3c.png)
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
-and punctuation) using user defined function isPalindrome():[output](
+and punctuation) using user defined function isPalindrome():[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3d.png)
 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
-function removeWhitespace()[output](
+function removeWhitespace()[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3e.png)
 ## 3c.String Exercise progams
 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
-capitalizeWords().[output](
+capitalizeWords().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3f.png)
 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
-defined function truncate().[output](
+defined function truncate().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3g.png)
 8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
-function isNumeric().[output](
+function isNumeric().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3h.png)
 9. Write a Java Program for Creating a random string of a specified length using user defined
-function generateRandomString().[output](
+function generateRandomString().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3i.png)
 10. Write a Java Program for Counting the number of words in a string using user defined function
-countWords().[output](
+countWords().[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program3_stringoperation/3j.png)
 ## 4a.HelloSwing
  Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
-Programming in Blue color plain font with font size of 32 using Jframe and Jlabel.[output](
+Programming in Blue color plain font with font size of 32 using Jframe and Jlabel.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program4_swings/4a.png)
 ## 4b.CountryButtonDemo
 Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
-pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).[output](
+pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program4_swings/4b1.png)
 ## 4c.ImageButtonDemo
 Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
-pressed by implementing the event handling mechanism with addActionListener( ).[output](
+pressed by implementing the event handling mechanism with addActionListener( ).[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program4_swings/4c1.png)
 ## 5a.CountryListDisplay
 Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
-display them on console whenever the countries are selected on the list.[output](
+display them on console whenever the countries are selected on the list.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5a.png)
 ## 5b.ColorTabbedPane
 Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
-display the concerned color whenever the specific tab is selected in the Pan.[output](
+display the concerned color whenever the specific tab is selected in the Pan.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5b1.png)
 ## 5c.CountryCapitalDisplay
 Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
-display the capital of the countries on console whenever the countries are selected on the list.[output](
+display the capital of the countries on console whenever the countries are selected on the list.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5c.png)
 ## 5d.CMYTabbedPane
 Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
-display the concerned color whenever the specific tab is selected in the Pan
+display the concerned color whenever the specific tab is selected in the Pan.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5d1.png)
 # 6a.
 Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
