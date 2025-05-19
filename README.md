@@ -47,7 +47,7 @@ contains( ) and startsWith() and endsWith()
 ## 2b.Performance Test
  Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
-your answer which one is better.[output](
+your answer which one is better.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program2_stringDemo/2b.png)
 ## 3a. String operation progams
 3a. Develop a java program for performing various string operations with different string
 handling functions directed as follows:
@@ -118,17 +118,18 @@ Check the expiry of the session after one minute.[output](https://github.com/nau
 Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list
-
-## 8a. 
+[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb1.jpg)
+[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb2.jpg)
+## 8a.  Insert coffee
 Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
-JSP to get the fields and display the results respectively
-# 8b.
+JSP to get the fields and display the results respectively.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a1.jpg)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a2.jpg)
+## 8b. Update coffee
 Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
-( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
-# 8c
+( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b1.jpg)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b2.jpg)
+## 8c Employee Report
 . Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
-HTML and JSP to get the fields and display the results respectively
+HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8c.jpg)
