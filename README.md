@@ -1,8 +1,6 @@
 # Advanced_java_programs
 
- - ## 1a List interface 
-
- [output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program1_ListInterface/arraydemo.png)
+ - ## 1a List interface [output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program1_ListInterface/arraydemo.png)
 - ## 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
