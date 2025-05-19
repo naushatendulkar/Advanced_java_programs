@@ -22,7 +22,7 @@ elements 1st and 2nd from the ArrayList object by using SubList()
 5. Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index
 [output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program1_ListInterface/p5.png)
-# 1c. Linked List Programs
+## 1c. Linked List Programs
 
 1. Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
@@ -39,23 +39,23 @@ l_listobj.get(p) )
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 [output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program1_ListInterface/p10.png)
-# 2a. String Operation
+## 2a. String Operation
 Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
 contains( ) and startsWith() and endsWith()
-# 2b.
+## 2b.Performance Test
  Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.
-# 3a. String operation progams
+## 3a. String operation progams
 3a. Develop a java program for performing various string operations with different string
 handling functions directed as follows:
 String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()
-# 3b.String Exercise progams
+## 3b.String Exercise progams
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().
 2. Write a Java Program for Counting how many times a substring appears in a main string
@@ -66,7 +66,7 @@ reverseString().
 and punctuation) using user defined function isPalindrome():
 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()
-# 3c.String Exercise progams
+## 3c.String Exercise progams
 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
@@ -77,26 +77,28 @@ function isNumeric()
 function generateRandomString()
 10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
-# 4a.Swing display
+## 4a.HelloSwing
  Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
-# 4b.Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
+## 4b.CountryButtonDemo
+Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
 pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).
-# 4c.
+## 4c.ImageButtonDemo
 Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
 pressed by implementing the event handling mechanism with addActionListener( ).
-# 5a.
+## 5a.CountryListDisplay
 Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display them on console whenever the countries are selected on the list.
-# 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
+## 5b.ColorTabbedPane
+Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.
-# 5c.
+## 5c.CountryCapitalDisplay
 Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display the capital of the countries on console whenever the countries are selected on the list.
-# 5d.
+## 5d.CMYTabbedPane
 Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan
 # 6a.
