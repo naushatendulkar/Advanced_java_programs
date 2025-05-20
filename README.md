@@ -102,57 +102,57 @@ display the capital of the countries on console whenever the countries are selec
 Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program5_swings/5d1.png)
 ## 6a.FactorialServlet
-Build a servlet program to find the factorial of a number using HTML with step by step[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/FactorialServlet/6.png)[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/FactorialServlet/6a.png)
+Build a servlet program to find the factorial of a number using HTML with step by step[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/FactorialServlet/6.png) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/FactorialServlet/6a.png)
 ## 6b.CookieServlet
 Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/CookieServlet/6b.png)
 ## 6c.Prime Servlet
 Build a servlet program to check the given number is prime number or not using HTML with step
-by step procedure.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/PrimeServlet/6c.png)[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/PrimeServlet/6c2.png)
+by step procedure.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/PrimeServlet/6c.png) [output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program6_servlet/PrimeServlet/6c2.png)
 ## 7a.Session Management
 Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
-Check the expiry of the session after one minute.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7a.png) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7b.png) [output3](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7c.png)
+Check the expiry of the session after one minute.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/session/7a.png) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/session/7c.png)  [output3](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/session/7b.png)
 ## 7b. Cookie Management
 Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list
-[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb1.jpg) 
-[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/7bb2.jpg)
+[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/cookies/7bb1.jpg) 
+[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program7_jspProgram/cookies/7bb2.jpg)
 ## 8a.  Insert coffee
 Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
-JSP to get the fields and display the results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a1.jpg) 
- [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a2.jpg)
+JSP to get the fields and display the results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a_insertcoffee/8a1.jpg) 
+ [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a_insertcoffee/8a2.jpg)
 ## 8b. Update coffee
 Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
-( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b1.jpg) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b2.jpg)
+( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b_updatecoffe/8b1.jpg) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b_updatecoffe/8b1.jpg)
 ## 8c. Employee insert
  Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
-HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8c.jpg)
+HTML and JSP to get the fields and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8c_empinsert/8c.png)
 ## 8d. Employee update
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
-results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d.jpg) 
-[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d2.jpg)
+results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d_empupdate/8d.png) 
+[output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d_empupdate/8d2.png)
 ## 9a.Delete employee
 9a. Read all the existing records from the table coffee which is from the database test and delete
 an existing coffee product from the table with its id and display the rest of the records using
-HTML and JSP to get the field and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/tree/main/program9_empcoffee)
+HTML and JSP to get the field and display the results respectively[output](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9a/9a1.jpg) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9a/9a2.jpg)
 ## 9b.Delete Employee Record
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
-results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9b1.jpg) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9b2.jpg)
+results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9b/9b1.jpg) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9b/9b2.jpg)
 ## 9c.Insert employee details
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
-to get the field and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9b1.jpg)
+to get the field and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9c/9c.png)
 ## 9d.Delete Employee Record
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
-follows using HTML and JSP to get the field and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9d.jpg) [output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9d2.jpg)
+follows using HTML and JSP to get the field and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9d/9d.png) [output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program9_empcoffee/9d/9d2.png)
