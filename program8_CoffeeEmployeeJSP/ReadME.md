@@ -28,14 +28,14 @@ results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_
 [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8d_empupdate/8d2.png)
 
 ## SQL QUERY
- Create the Emp table<br>
+
 CREATE TABLE Emp (<br>
     Emp_NO INTEGER PRIMARY KEY,<br>
     Emp_Name TEXT NOT NULL,<br>
     Basicsalary INTEGER<br>
 );<br>
 
- Insert 5 records into the Emp table<br>
+
 INSERT INTO Emp VALUES (101, 'Ramesh', 25000);<br>
 INSERT INTO Emp VALUES (102, 'Ravi', 20000);<br>
 INSERT INTO Emp VALUES (103, 'Sita', 30000);<br>
