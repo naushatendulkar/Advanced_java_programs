@@ -4,7 +4,7 @@ new coffee product into it [Create a table coffee with fields ( id,coffee_name,p
 JSP to get the fields and display the results respectively.[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a_insertcoffee/8a1.jpg) 
  [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8a_insertcoffee/8a2.jpg)
  
- 8b. Update coffee
+## 8b. Update coffee
 Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively[output1](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b_updatecoffe/8b1.jpg) [output2](https://github.com/naushatendulkar/Advanced_java_programs/blob/main/program8_CoffeeEmployeeJSP/8b_updatecoffe/8b1.jpg)
